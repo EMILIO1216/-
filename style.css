@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+  width: 270px;
+  
+  
+}
+
+header {
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 80px;
+}
+
+
+.line {
+    height: 9px;
+    background-color: black ;
+}
+
+main img {
+  width: 280px;
+  height: 230px;
+  padding: 80px;
+}
+
+.red {
+   font-size: 60px;
+   color: red;
+}
+
+
+p img {
+  width: 100px;
+  translate: 400px -150px
+}
+
+
+.bober {
+  width: 1000px;
+}
+
+
+
+
+footer p {
+  font-size: 25px;
+  font-family: Impact, fantasy ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
